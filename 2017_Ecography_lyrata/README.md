@@ -8,5 +8,5 @@ Ecography 2017
 
 DOI: 10.1111/ecog.02869
 
-Files are being added slowly during June 2017, if you need access to something that isn't here, please contact me at: lee-yaw \<\<at\>\> zoology \<\<dot\>\> ubc \<\<dot\>\>
+Files are being added slowly during 2017, if you need access to something that isn't here, please contact me at: lee-yaw \<\<at\>\> zoology \<\<dot\>\> ubc \<\<dot\>\>
 ca
