@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Angelo2011_Mauna_Loa" id="Angelo2011_Mauna_Loa">
+	<SimpleField name="dummy" type="float"></SimpleField>
+</Schema>
+<Folder><name>Angelo2011_Mauna_Loa</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Angelo2011_Mauna_Loa">
+		<SimpleData name="dummy">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-155.798362493752848,19.058224024722431 -155.798362493752848,19.547593943907913 -155.016299206704531,19.547593943907913 -155.016299206704531,19.058224024722431 -155.798362493752848,19.058224024722431</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

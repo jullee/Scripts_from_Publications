@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Felde2012_Sikkilsdalen" id="Felde2012_Sikkilsdalen">
+	<SimpleField name="dummy" type="float"></SimpleField>
+</Schema>
+<Folder><name>Felde2012_Sikkilsdalen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Felde2012_Sikkilsdalen">
+		<SimpleData name="dummy">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>8.857153950833212,61.447284574692802 8.857153950833212,61.527354832176393 9.101116905261621,61.527354832176393 9.101116905261621,61.447284574692802 8.857153950833212,61.447284574692802</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

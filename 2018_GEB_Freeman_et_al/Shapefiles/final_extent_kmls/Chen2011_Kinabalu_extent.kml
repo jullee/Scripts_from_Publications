@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Chen2011_Kinabalu" id="Chen2011_Kinabalu">
+	<SimpleField name="dummy" type="float"></SimpleField>
+</Schema>
+<Folder><name>Chen2011_Kinabalu</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Chen2011_Kinabalu">
+		<SimpleData name="dummy">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>116.428150996702399,5.963413360923985 116.428150996702399,6.531644148068036 116.798838228945527,6.531644148068036 116.798838228945527,5.963413360923985 116.428150996702399,5.963413360923985</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

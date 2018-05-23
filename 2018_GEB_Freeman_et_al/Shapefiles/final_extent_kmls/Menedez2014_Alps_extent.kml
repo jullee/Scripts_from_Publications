@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Menedez2014_Alps" id="Menedez2014_Alps">
+	<SimpleField name="dummy" type="float"></SimpleField>
+</Schema>
+<Folder><name>Menedez2014_Alps</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Menedez2014_Alps">
+		<SimpleData name="dummy">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>6.60387232700009,43.905087203000051 6.60387232700009,44.428372825000054 7.518003859000089,44.428372825000054 7.518003859000089,43.905087203000051 6.60387232700009,43.905087203000051</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Wen2017_Sichuan" id="Wen2017_Sichuan">
+	<SimpleField name="dummy" type="float"></SimpleField>
+</Schema>
+<Folder><name>Wen2017_Sichuan</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wen2017_Sichuan">
+		<SimpleData name="dummy">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.41071,30.48386 102.41071,31.32725 103.377089999000077,31.32725 103.377089999000077,30.48386 102.41071,30.48386</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

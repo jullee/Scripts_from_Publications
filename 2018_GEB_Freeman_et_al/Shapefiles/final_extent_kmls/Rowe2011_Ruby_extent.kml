@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Rowe2011_Ruby" id="Rowe2011_Ruby">
+	<SimpleField name="dummy" type="float"></SimpleField>
+</Schema>
+<Folder><name>Rowe2011_Ruby</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rowe2011_Ruby">
+		<SimpleData name="dummy">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-115.971196481022801,39.811923581787802 -115.971196481022801,41.30869200805742 -114.770864652851387,41.30869200805742 -114.770864652851387,39.811923581787802 -115.971196481022801,39.811923581787802</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Freeman2014_Karimui" id="Freeman2014_Karimui">
+	<SimpleField name="dummy" type="float"></SimpleField>
+</Schema>
+<Folder><name>Freeman2014_Karimui</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Freeman2014_Karimui">
+		<SimpleData name="dummy">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>144.676895749142489,-6.686556216958493 144.676895749142489,-6.509084745377523 144.849631104428909,-6.509084745377523 144.849631104428909,-6.686556216958493 144.676895749142489,-6.686556216958493</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

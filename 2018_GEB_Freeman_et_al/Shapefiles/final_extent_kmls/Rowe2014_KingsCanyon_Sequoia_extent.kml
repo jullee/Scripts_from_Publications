@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Rowe2014_KingsCanyon_Sequoia" id="Rowe2014_KingsCanyon_Sequoia">
+	<SimpleField name="dummy" type="float"></SimpleField>
+</Schema>
+<Folder><name>Rowe2014_KingsCanyon_Sequoia</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rowe2014_KingsCanyon_Sequoia">
+		<SimpleData name="dummy">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-119.66408833,35.22046888 -119.66408833,37.46516518 -117.81098574,37.46516518 -117.81098574,35.22046888 -119.66408833,35.22046888</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

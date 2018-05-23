@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Forero_Medina2011_Cerros_del_Sira" id="Forero_Medina2011_Cerros_del_Sira">
+	<SimpleField name="dummy" type="float"></SimpleField>
+</Schema>
+<Folder><name>Forero_Medina2011_Cerros_del_Sira</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Forero_Medina2011_Cerros_del_Sira">
+		<SimpleData name="dummy">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-74.824432375999947,-10.61523914299994 -74.824432375999947,-8.752852439999913 -74.07735443699994,-8.752852439999913 -74.07735443699994,-10.61523914299994 -74.824432375999947,-10.61523914299994</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

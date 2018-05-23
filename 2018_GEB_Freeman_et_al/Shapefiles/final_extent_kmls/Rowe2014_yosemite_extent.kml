@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Rowe2014_yosemite" id="Rowe2014_yosemite">
+	<SimpleField name="dummy" type="float"></SimpleField>
+</Schema>
+<Folder><name>Rowe2014_yosemite</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rowe2014_yosemite">
+		<SimpleData name="dummy">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-120.76489955,37.30822773 -120.76489955,38.37287294 -118.7238942,38.37287294 -118.7238942,37.30822773 -120.76489955,37.30822773</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

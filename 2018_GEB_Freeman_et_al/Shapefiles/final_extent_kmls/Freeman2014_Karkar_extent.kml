@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Freeman2014_Karkar" id="Freeman2014_Karkar">
+	<SimpleField name="dummy" type="float"></SimpleField>
+</Schema>
+<Folder><name>Freeman2014_Karkar</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Freeman2014_Karkar">
+		<SimpleData name="dummy">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>145.820554955992492,-4.775216892728625 145.820554955992492,-4.506882769148953 146.086725184447999,-4.506882769148953 146.086725184447999,-4.775216892728625 145.820554955992492,-4.775216892728625</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
