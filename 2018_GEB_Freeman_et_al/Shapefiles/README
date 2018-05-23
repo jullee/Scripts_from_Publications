@@ -1,1 +1,3 @@
 The shapefiles used to delineate study regions in Freeman et al. GEB 2018
+These files were used to crop the DEMs to study region for each species.
+The folder "final_extent_kmls" has a kml file for each species that can be used to quickly download the appropriate tiles from Earth Explorer.
