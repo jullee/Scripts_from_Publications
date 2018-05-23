@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Raxworthy2008_Tsaratanana" id="Raxworthy2008_Tsaratanana">
+	<SimpleField name="SP_ID" type="string"></SimpleField>
+	<SimpleField name="dummy" type="float"></SimpleField>
+</Schema>
+<Folder><name>Raxworthy2008_Tsaratanana</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Raxworthy2008_Tsaratanana">
+		<SimpleData name="SP_ID">tsar</SimpleData>
+		<SimpleData name="dummy">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>48.604328387952783,-14.27412365557058 48.596216148769621,-13.650465094115241 49.065911804214821,-13.65050987617701 49.063287438983913,-14.274179320782411 48.604328387952783,-14.27412365557058</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

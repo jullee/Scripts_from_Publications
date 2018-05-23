@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Dieker2011_Pyrenees" id="Dieker2011_Pyrenees">
+	<SimpleField name="SP_ID" type="string"></SimpleField>
+	<SimpleField name="dummy" type="float"></SimpleField>
+</Schema>
+<Folder><name>Dieker2011_Pyrenees</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Dieker2011_Pyrenees">
+		<SimpleData name="SP_ID">pyr</SimpleData>
+		<SimpleData name="dummy">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-2.515582357817689,41.48238478428069 -2.708922837445865,43.952040815944123 2.98409403643916,43.928154550327207 2.940252219200661,41.570494079957847 -2.515582357817689,41.48238478428069</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

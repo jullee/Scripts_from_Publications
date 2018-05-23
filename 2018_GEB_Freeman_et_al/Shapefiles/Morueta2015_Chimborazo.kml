@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Morueta2015_Chimborazo" id="Morueta2015_Chimborazo">
+	<SimpleField name="SP_ID" type="string"></SimpleField>
+	<SimpleField name="dummy" type="float"></SimpleField>
+</Schema>
+<Folder><name>Morueta2015_Chimborazo</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Morueta2015_Chimborazo">
+		<SimpleData name="SP_ID">chim</SimpleData>
+		<SimpleData name="dummy">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-78.843914066003023,-1.389081871743078 -78.819075254943925,-1.395763007154313 -78.8051498827529,-1.403648459962149 -78.789073662388247,-1.409523606276317 -78.775253598734537,-1.423787573189476 -78.763550062597716,-1.437567028785938 -78.742960017577587,-1.451377504486633 -78.736114571393955,-1.47653012725531 -78.7547713231139,-1.508548740272517 -78.782309671036145,-1.529734444661479 -78.80680983929399,-1.536189577784284 -78.837517988149941,-1.529315594208135 -78.866310165318296,-1.504090293038904 -78.873608445055169,-1.480904111995884 -78.877515956732154,-1.455905688628833 -78.872861479691551,-1.423391637440256 -78.860664257292797,-1.389675756133107 -78.843914066003023,-1.389081871743078</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

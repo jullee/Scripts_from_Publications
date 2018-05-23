@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Rowe2014_Lessen" id="Rowe2014_Lessen">
+	<SimpleField name="dummy" type="float"></SimpleField>
+</Schema>
+<Folder><name>Rowe2014_Lessen</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rowe2014_Lessen">
+		<SimpleData name="dummy">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-122.48533589,39.89375615 -122.48533589,41.1680831 -119.93512889,41.1680831 -119.93512889,39.89375615 -122.48533589,39.89375615</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
