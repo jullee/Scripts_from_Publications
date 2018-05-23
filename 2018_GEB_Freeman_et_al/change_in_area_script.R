@@ -3,7 +3,7 @@
 ### Project: Freeman et al. GEB 2018
 
 ### Notes: Functions used to calcualte change in area (within a study region) resulting from species' elevational shifts 
-## An example is included but to reproduce the full dataset requires downloading files from source and processing with "dem_processing_script.R"
+## An example is included but to reproduce the full dataset requires downloading USGS EarthExplore tiles (STRM 1 arc second global DEM) for each of the shapefiles in the "Shapefiles" folder then for each shapefile, unzipping, seaming together and cropping...
 
 ### Date: July 11, 2017
 
